@@ -1,0 +1,6 @@
+C:\Users\Admin\RiderProjects\Lab1_T2009A_PhungVietHung\ReferenceType\bin\Debug\ReferenceType.exe
+C:\Users\Admin\RiderProjects\Lab1_T2009A_PhungVietHung\ReferenceType\bin\Debug\ReferenceType.pdb
+C:\Users\Admin\RiderProjects\Lab1_T2009A_PhungVietHung\ReferenceType\obj\Debug\ReferenceType.csprojAssemblyReference.cache
+C:\Users\Admin\RiderProjects\Lab1_T2009A_PhungVietHung\ReferenceType\obj\Debug\ReferenceType.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\Lab1_T2009A_PhungVietHung\ReferenceType\obj\Debug\ReferenceType.exe
+C:\Users\Admin\RiderProjects\Lab1_T2009A_PhungVietHung\ReferenceType\obj\Debug\ReferenceType.pdb

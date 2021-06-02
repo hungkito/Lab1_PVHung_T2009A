@@ -1,0 +1,6 @@
+C:\Users\Admin\RiderProjects\Lab1_T2009A_PhungVietHung\Part4_exc1\bin\Debug\Part4_exc1.exe
+C:\Users\Admin\RiderProjects\Lab1_T2009A_PhungVietHung\Part4_exc1\bin\Debug\Part4_exc1.pdb
+C:\Users\Admin\RiderProjects\Lab1_T2009A_PhungVietHung\Part4_exc1\obj\Debug\Part4_exc1.csprojAssemblyReference.cache
+C:\Users\Admin\RiderProjects\Lab1_T2009A_PhungVietHung\Part4_exc1\obj\Debug\Part4_exc1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\Lab1_T2009A_PhungVietHung\Part4_exc1\obj\Debug\Part4_exc1.exe
+C:\Users\Admin\RiderProjects\Lab1_T2009A_PhungVietHung\Part4_exc1\obj\Debug\Part4_exc1.pdb

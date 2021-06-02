@@ -1,0 +1,12 @@
+C:\Users\Admin\RiderProjects\First_prg\First_prg\bin\Debug\First_prg.exe
+C:\Users\Admin\RiderProjects\First_prg\First_prg\bin\Debug\First_prg.pdb
+C:\Users\Admin\RiderProjects\First_prg\First_prg\obj\Debug\First_prg.csprojAssemblyReference.cache
+C:\Users\Admin\RiderProjects\First_prg\First_prg\obj\Debug\First_prg.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\First_prg\First_prg\obj\Debug\First_prg.exe
+C:\Users\Admin\RiderProjects\First_prg\First_prg\obj\Debug\First_prg.pdb
+C:\Users\Admin\RiderProjects\Lab1_T2009A_PhungVietHung\First_prg\bin\Debug\First_prg.exe
+C:\Users\Admin\RiderProjects\Lab1_T2009A_PhungVietHung\First_prg\bin\Debug\First_prg.pdb
+C:\Users\Admin\RiderProjects\Lab1_T2009A_PhungVietHung\First_prg\obj\Debug\First_prg.csprojAssemblyReference.cache
+C:\Users\Admin\RiderProjects\Lab1_T2009A_PhungVietHung\First_prg\obj\Debug\First_prg.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\Lab1_T2009A_PhungVietHung\First_prg\obj\Debug\First_prg.exe
+C:\Users\Admin\RiderProjects\Lab1_T2009A_PhungVietHung\First_prg\obj\Debug\First_prg.pdb

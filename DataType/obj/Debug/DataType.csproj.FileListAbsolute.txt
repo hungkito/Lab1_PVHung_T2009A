@@ -1,0 +1,12 @@
+C:\Users\Admin\RiderProjects\First_prg\DataType\bin\Debug\DataType.exe
+C:\Users\Admin\RiderProjects\First_prg\DataType\bin\Debug\DataType.pdb
+C:\Users\Admin\RiderProjects\First_prg\DataType\obj\Debug\DataType.csprojAssemblyReference.cache
+C:\Users\Admin\RiderProjects\First_prg\DataType\obj\Debug\DataType.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\First_prg\DataType\obj\Debug\DataType.exe
+C:\Users\Admin\RiderProjects\First_prg\DataType\obj\Debug\DataType.pdb
+C:\Users\Admin\RiderProjects\Lab1_T2009A_PhungVietHung\DataType\bin\Debug\DataType.exe
+C:\Users\Admin\RiderProjects\Lab1_T2009A_PhungVietHung\DataType\bin\Debug\DataType.pdb
+C:\Users\Admin\RiderProjects\Lab1_T2009A_PhungVietHung\DataType\obj\Debug\DataType.csprojAssemblyReference.cache
+C:\Users\Admin\RiderProjects\Lab1_T2009A_PhungVietHung\DataType\obj\Debug\DataType.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\Lab1_T2009A_PhungVietHung\DataType\obj\Debug\DataType.exe
+C:\Users\Admin\RiderProjects\Lab1_T2009A_PhungVietHung\DataType\obj\Debug\DataType.pdb

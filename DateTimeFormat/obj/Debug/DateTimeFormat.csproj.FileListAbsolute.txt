@@ -1,0 +1,6 @@
+C:\Users\Admin\RiderProjects\Lab1_T2009A_PhungVietHung\DateTimeFormat\bin\Debug\DateTimeFormat.exe
+C:\Users\Admin\RiderProjects\Lab1_T2009A_PhungVietHung\DateTimeFormat\bin\Debug\DateTimeFormat.pdb
+C:\Users\Admin\RiderProjects\Lab1_T2009A_PhungVietHung\DateTimeFormat\obj\Debug\DateTimeFormat.csprojAssemblyReference.cache
+C:\Users\Admin\RiderProjects\Lab1_T2009A_PhungVietHung\DateTimeFormat\obj\Debug\DateTimeFormat.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\Lab1_T2009A_PhungVietHung\DateTimeFormat\obj\Debug\DateTimeFormat.exe
+C:\Users\Admin\RiderProjects\Lab1_T2009A_PhungVietHung\DateTimeFormat\obj\Debug\DateTimeFormat.pdb

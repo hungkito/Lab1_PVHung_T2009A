@@ -1,0 +1,12 @@
+C:\Users\Admin\RiderProjects\First_prg\ValueType\bin\Debug\ValueType.exe
+C:\Users\Admin\RiderProjects\First_prg\ValueType\bin\Debug\ValueType.pdb
+C:\Users\Admin\RiderProjects\First_prg\ValueType\obj\Debug\ValueType.csprojAssemblyReference.cache
+C:\Users\Admin\RiderProjects\First_prg\ValueType\obj\Debug\ValueType.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\First_prg\ValueType\obj\Debug\ValueType.exe
+C:\Users\Admin\RiderProjects\First_prg\ValueType\obj\Debug\ValueType.pdb
+C:\Users\Admin\RiderProjects\Lab1_T2009A_PhungVietHung\ValueType\bin\Debug\ValueType.exe
+C:\Users\Admin\RiderProjects\Lab1_T2009A_PhungVietHung\ValueType\bin\Debug\ValueType.pdb
+C:\Users\Admin\RiderProjects\Lab1_T2009A_PhungVietHung\ValueType\obj\Debug\ValueType.csprojAssemblyReference.cache
+C:\Users\Admin\RiderProjects\Lab1_T2009A_PhungVietHung\ValueType\obj\Debug\ValueType.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\Lab1_T2009A_PhungVietHung\ValueType\obj\Debug\ValueType.exe
+C:\Users\Admin\RiderProjects\Lab1_T2009A_PhungVietHung\ValueType\obj\Debug\ValueType.pdb

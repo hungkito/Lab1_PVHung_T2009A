@@ -1,0 +1,6 @@
+C:\Users\Admin\RiderProjects\Lab1_T2009A_PhungVietHung\NumberFormat\bin\Debug\NumberFormat.exe
+C:\Users\Admin\RiderProjects\Lab1_T2009A_PhungVietHung\NumberFormat\bin\Debug\NumberFormat.pdb
+C:\Users\Admin\RiderProjects\Lab1_T2009A_PhungVietHung\NumberFormat\obj\Debug\NumberFormat.csprojAssemblyReference.cache
+C:\Users\Admin\RiderProjects\Lab1_T2009A_PhungVietHung\NumberFormat\obj\Debug\NumberFormat.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\Lab1_T2009A_PhungVietHung\NumberFormat\obj\Debug\NumberFormat.exe
+C:\Users\Admin\RiderProjects\Lab1_T2009A_PhungVietHung\NumberFormat\obj\Debug\NumberFormat.pdb
